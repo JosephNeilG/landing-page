@@ -23,6 +23,10 @@ body {
     font-weight: 800;
 }
 
+.la-union {
+    color: rgb(56, 130, 246);
+}
+
 ul {
     list-style-type: none;
     display: flex;
@@ -56,9 +60,10 @@ a {
 
 .subtext {
     color: #E5E7EB;
-    width: 500px;
+    width: 600px;
     margin: 10px 0;
     font-size: 18px;
+    line-height: 1.4;
 }
 
 .button {
@@ -180,7 +185,7 @@ a {
 }
 
 .fourth-header {
-    font-weight: 800;
+    font-weight: 600;
     font-size: 22px;
     color:#f9faf8;
 }
