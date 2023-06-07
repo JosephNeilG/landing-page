@@ -39,6 +39,10 @@ a {
     color: #E5E7EB;
 }
 
+a:hover {
+    color:rgb(56, 130, 246);
+}
+
 .first-content {
     display: flex; 
     padding: 50px 0; 
